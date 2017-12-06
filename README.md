@@ -1,2 +1,3 @@
+This get repo is for me to proof that I have been doing my work \n
 RFI work
-fooling around with nature
+test of the git repo
