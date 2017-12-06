@@ -1,5 +1,2 @@
-This Git repo is for me to proof that I have been doing my work
+RFI work for the SKA project
 
-RFI work
-
-test of the git repo
